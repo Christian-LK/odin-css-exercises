@@ -1,0 +1,19 @@
+.redclass {
+    background-color:pink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#blueid {
+    color: blue;
+    font-size: 36px;
+}
+
+.redclass.bigger {
+    font-size: 24px;
+}
+
+#otherid {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
